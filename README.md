@@ -22,7 +22,7 @@ This repository contains the code for a Sign Language Detector project, which en
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/thisismohsinsyed/sign-language-detector.git
+   git clone [https://github.com/thisismohsinsyed/Sign-Language-Detector-Master.git]
    ```
 2. Install the required packages:
    ```
